@@ -4,7 +4,7 @@
 header('Content-Type: text/html; charset=utf-8');
 
 // Realiza a conexão com o banco de dados MySQL
-mysql_connect('localhost', 'root', '');
+mysql_connect('localhost', 'root', 'root');
 
 mysql_close($link);
 
