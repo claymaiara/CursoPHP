@@ -55,3 +55,5 @@ $resultado->close();
 
 // Fecha a conexão com o MySQL
 $conexao->close();
+
+echo "teste";
